@@ -4,6 +4,6 @@ class Dog
   end
 end
 
-  def spit 
+  def sit 
     puts "The Dog is sitting"
   end
